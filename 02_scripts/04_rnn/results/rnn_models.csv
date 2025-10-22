@@ -1,0 +1,25 @@
+model,response,bidirectional,mlp,with_embeddings,num_params
+1,e.cum,True,True,True,570474
+2,e.cum,True,True,False,549901
+3,e.cum,True,False,True,565342
+4,e.cum,True,False,False,544769
+5,e.cum,False,True,True,285290
+6,e.cum,False,True,False,274957
+7,e.cum,False,False,True,282718
+8,e.cum,False,False,False,272385
+9,delta_e.cum,True,True,True,570474
+10,delta_e.cum,True,True,False,549901
+11,delta_e.cum,True,False,True,565342
+12,delta_e.cum,True,False,False,544769
+13,delta_e.cum,False,True,True,285290
+14,delta_e.cum,False,True,False,274957
+15,delta_e.cum,False,False,True,282718
+16,delta_e.cum,False,False,False,272385
+17,e.cum and delta_e.cum,True,True,True,570481
+18,e.cum and delta_e.cum,True,True,False,549908
+19,e.cum and delta_e.cum,True,False,True,566367
+20,e.cum and delta_e.cum,True,False,False,545794
+21,e.cum and delta_e.cum,False,True,True,285297
+22,e.cum and delta_e.cum,False,True,False,274964
+23,e.cum and delta_e.cum,False,False,True,283231
+24,e.cum and delta_e.cum,False,False,False,272898
